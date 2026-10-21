@@ -43,7 +43,7 @@ Recommended local preview:
 
    ```js
    window.MEMORY_ANCHORS_CONFIG = {
-     gaMeasurementId: "G-XXXXXXXXXX"
+     gaMeasurementId: "G-GP90HZDTDX"
    };
    ```
 
